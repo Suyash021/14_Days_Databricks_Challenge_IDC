@@ -1,4 +1,5 @@
 # 14_Days_Databricks_Challenge_IDC
+Day_1
 ### Learn:
 
 - Why Databricks vs Pandas/Hadoop?
@@ -12,6 +13,10 @@
 2. Navigate Workspace, Compute, Data Explorer
 3. Create first notebook
 4. Run basic PySpark commands
+
+
+
+
 Day_2 of Challenge: 
 ### Learn:
 
