@@ -42,7 +42,33 @@ Day_2 of Challenge:
 - Window functions (running totals, rankings)
 - User-Defined Functions (UDFs)
 
+### 🛠️ Tasks: 
+
+1. Load full e-commerce dataset
+2. Perform complex joins
+3. Calculate running totals with window functions
+4. Create derived features
+
+
+
+### **DAY 4 (12/01/26)– Delta Lake Introduction**
+
+### Learn:
+
+- What is Delta Lake?
+- ACID transactions
+- Schema enforcement
+- Delta vs Parquet
+
 ### 🛠️ Tasks:
+
+1. Convert CSV to Delta format
+2. Create Delta tables (SQL and PySpark)
+3. Test schema enforcement
+4. Handle duplicate inserts
+
+
+
 
 1. Load full e-commerce dataset
 2. Perform complex joins
